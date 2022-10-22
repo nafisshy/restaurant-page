@@ -25,14 +25,14 @@
   background: url('./background.png');
  }
  .outer-div{
-  background-color:rgb(255, 174, 0); width:70vw; height:50vw;
+  background-color:rgb(255, 174, 0); width:70vw; 
   padding:10px;
   margin:auto;
   border: 2px solid rgb(36, 33, 33);
   border-radius: 10px;
  }
  .inner-div{
-  background-color:rgb(220, 229, 157); width:70vw; height:50vw;
+  background-color:rgb(220, 229, 157); width:70vw; 
   margin:auto;
   border: 2px solid rgb(36, 33, 33);
   border-radius: 10px;
