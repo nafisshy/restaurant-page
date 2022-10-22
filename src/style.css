@@ -1,5 +1,16 @@
-site-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }  
+
+ .site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+  
+ nav{
+  background-color: aquamarine;
+  border: 2px solid white;
+  padding: 10px;
+  margin:10px;
+ } 
+ body{
+  background: url('./background.png');
+ }
